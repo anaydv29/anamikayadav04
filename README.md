@@ -1,2 +1,3 @@
 # anamikayadav04
-This is my repos
+This is my repository
+Author: Anamika Yadav
